@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 
-	"github.com/abh/geoip"
+	"github.com/epiqm/geoip"
 )
 
 func main() {
